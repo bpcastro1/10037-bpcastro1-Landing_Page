@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,167,45,0.35057773109243695) 0%),url("img/biblio.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.logo {
+    height: 200px;
+    width: 350px;
+    /*margin-top: 5px;*/
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
